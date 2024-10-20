@@ -15,6 +15,11 @@ RABBITMQ_QUEUE=cancellation
 TEST_DATABASE_URL=postgres://user:password@localhost:5432/test_db
 ```
 
+### Install dependencies 
+```bash
+    $ npm install
+```
+
 ### Run migration
 
 ```bash
